@@ -1,0 +1,233 @@
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 10:54:24"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 11:08:29"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 11:09:25"}
+{"level":"error","message":"App - createUser Service error\n: email is not defined","timestamp":"2023-06-22 11:11:04"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 11:12:07"}
+{"level":"error","message":"App - createUser Service error\n: uid is not defined","timestamp":"2023-06-22 11:12:10"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 11:13:23"}
+{"level":"error","message":"App - createUser Service error\n: uid is not defined","timestamp":"2023-06-22 11:13:26"}
+{"level":"error","message":"App - createUser Service error\n: uid is not defined","timestamp":"2023-06-22 11:13:27"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 11:15:00"}
+{"level":"error","message":"App - createUser Service error\n: uid is not defined","timestamp":"2023-06-22 11:15:02"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 11:16:53"}
+{"level":"error","message":"App - createUser Service error\n: uid is not defined","timestamp":"2023-06-22 11:16:56"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 11:19:33"}
+{"level":"error","message":"App - createUser Service error\n: f_uid is not defined","timestamp":"2023-06-22 11:19:39"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 11:20:36"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 11:21:19"}
+{"level":"error","message":"App - createUser Service error\n: f_uid is not defined","timestamp":"2023-06-22 11:21:22"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 11:21:59"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 11:55:42"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 11:57:40"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 11:58:59"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 12:01:09"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 12:01:50"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 12:03:51"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 14:46:36"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 14:48:11"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 14:48:37"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubProvider is not defined","timestamp":"2023-06-22 14:48:39"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 14:49:55"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubProvider is not defined","timestamp":"2023-06-22 14:49:57"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 14:50:57"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubProvider is not defined","timestamp":"2023-06-22 14:51:00"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 14:51:47"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubProvider is not defined","timestamp":"2023-06-22 14:51:49"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 14:52:29"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubname is not defined","timestamp":"2023-06-22 14:52:32"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 14:54:16"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubname is not defined","timestamp":"2023-06-22 14:54:18"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 14:55:27"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubname is not defined","timestamp":"2023-06-22 14:55:29"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 14:56:42"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubname is not defined","timestamp":"2023-06-22 14:56:45"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubname is not defined","timestamp":"2023-06-22 14:57:16"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubname is not defined","timestamp":"2023-06-22 14:57:29"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:00:29"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubname is not defined","timestamp":"2023-06-22 15:00:32"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:00:56"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubname is not defined","timestamp":"2023-06-22 15:00:58"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:02:27"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubname is not defined","timestamp":"2023-06-22 15:02:29"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:03:23"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubname is not defined","timestamp":"2023-06-22 15:03:26"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubname is not defined","timestamp":"2023-06-22 15:03:38"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubname is not defined","timestamp":"2023-06-22 15:03:44"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:05:05"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubname is not defined","timestamp":"2023-06-22 15:05:07"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:05:38"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubname is not defined","timestamp":"2023-06-22 15:05:40"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:06:24"}
+{"level":"error","message":"App - insertClubLike Service error\n: connection.query is not a function","timestamp":"2023-06-22 15:06:27"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:07:01"}
+{"level":"error","message":"App - insertClubLike Service error\n: connection.query is not a function","timestamp":"2023-06-22 15:07:03"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:08:00"}
+{"level":"error","message":"App - insertClubLike Service error\n: connection.query is not a function","timestamp":"2023-06-22 15:08:02"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:08:58"}
+{"level":"error","message":"App - insertClubLike Service error\n: connection.query is not a function","timestamp":"2023-06-22 15:09:01"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:10:16"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:11:30"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubProvider.clublikeCheck is not a function","timestamp":"2023-06-22 15:11:32"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:13:01"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubProvider.clublikeCheck is not a function","timestamp":"2023-06-22 15:13:03"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubProvider.clublikeCheck is not a function","timestamp":"2023-06-22 15:13:09"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:19:30"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:22:41"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot access 'clubid' before initialization","timestamp":"2023-06-22 15:22:43"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:23:16"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 15:23:18"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:24:42"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 15:24:44"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:25:14"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubDao.clublikeCheck is not a function","timestamp":"2023-06-22 15:25:16"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:25:43"}
+{"level":"error","message":"App - insertClubLike Service error\n: userDao is not defined","timestamp":"2023-06-22 15:25:45"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:26:44"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubDao.selectclublike is not a function","timestamp":"2023-06-22 15:26:46"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:27:10"}
+{"level":"error","message":"App - insertClubLike Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 3","timestamp":"2023-06-22 15:27:12"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:35:46"}
+{"level":"error","message":"App - insertClubLike Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 3","timestamp":"2023-06-22 15:35:48"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:36:17"}
+{"level":"error","message":"App - insertClubLike Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 3","timestamp":"2023-06-22 15:36:19"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:38:00"}
+{"level":"error","message":"App - insertClubLike Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 3","timestamp":"2023-06-22 15:38:02"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:38:41"}
+{"level":"error","message":"App - insertClubLike Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 3","timestamp":"2023-06-22 15:38:42"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:42:10"}
+{"level":"error","message":"App - insertClubLike Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 3","timestamp":"2023-06-22 15:42:13"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:43:36"}
+{"level":"error","message":"App - insertClubLike Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 3","timestamp":"2023-06-22 15:43:39"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:45:27"}
+{"level":"error","message":"App - insertClubLike Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 3","timestamp":"2023-06-22 15:45:29"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:47:08"}
+{"level":"error","message":"App - insertClubLike Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 3","timestamp":"2023-06-22 15:47:10"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:48:12"}
+{"level":"error","message":"App - insertClubLike Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 3","timestamp":"2023-06-22 15:48:13"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:56:26"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubDao.selectclublike is not a function","timestamp":"2023-06-22 15:56:28"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:57:03"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 15:59:27"}
+{"level":"error","message":"App - insertClubLike Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 3","timestamp":"2023-06-22 15:59:30"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:00:43"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:02:20"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:04:20"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:04:47"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:05:21"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:06:02"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:07:34"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:07:58"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:08:21"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 16:08:23"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:10:21"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:10:51"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:12:20"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 16:12:22"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:13:00"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 16:13:02"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:13:22"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:13:55"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:15:05"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubDao.selectclublike is not a function","timestamp":"2023-06-22 16:15:07"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:16:13"}
+{"level":"error","message":"App - insertClubLike Service error\n: clubDao.selectclublike is not a function","timestamp":"2023-06-22 16:16:16"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:16:41"}
+{"level":"error","message":"App - insertClubLike Service error\n: Unknown column 'likeid' in 'field list'","timestamp":"2023-06-22 16:16:43"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:17:28"}
+{"level":"error","message":"App - insertClubLike Service error\n: ClubLikeParams is not defined","timestamp":"2023-06-22 16:17:30"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:18:31"}
+{"level":"error","message":"App - insertClubLike Service error\n: userIdResult is not defined","timestamp":"2023-06-22 16:18:33"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:19:11"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:22:21"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:36:16"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:37:11"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:40:05"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:41:38"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:42:12"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:42:47"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:43:11"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:43:24"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:45:17"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:46:21"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:47:05"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:48:19"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:48:53"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:49:37"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:50:48"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:52:11"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 16:55:11"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 17:00:42"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 17:02:13"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 17:11:04"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 17:14:43"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 17:23:42"}
+{"level":"error","message":"App - insertClubLike Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'select clubname,clubinfo,clubday,clubnum,clubimg,clubstatus,clubtag,clubdday,...' at line 1","timestamp":"2023-06-22 17:23:45"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 17:24:17"}
+{"level":"error","message":"App - insertClubLike Service error\n: Unknown column 'club_id' in 'where clause'","timestamp":"2023-06-22 17:24:19"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 17:24:40"}
+{"level":"error","message":"App - insertClubLike Service error\n: clublikeRows is not defined","timestamp":"2023-06-22 17:24:42"}
+{"level":"error","message":"App - insertClubLike Service error\n: clublikeRows is not defined","timestamp":"2023-06-22 17:24:43"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 17:25:38"}
+{"level":"error","message":"App - insertClubLike Service error\n: clublikeRows is not defined","timestamp":"2023-06-22 17:25:40"}
+{"level":"error","message":"App - insertClubLike Service error\n: clublikeRows is not defined","timestamp":"2023-06-22 17:25:41"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 17:27:41"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 17:28:11"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 17:29:43"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 17:31:02"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 17:31:20"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 17:48:38"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 17:48:38"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 17:49:08"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 17:49:08"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 18:08:29"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 18:10:46"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 18:10:46"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 18:11:21"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 18:12:42"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 18:13:06"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 18:13:06"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 18:14:26"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 18:15:57"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 18:15:57"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 18:16:11"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 18:16:12"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 18:17:20"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 18:17:20"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 18:18:28"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 18:19:55"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 18:19:55"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 18:24:11"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 18:30:07"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read properties of undefined (reading 'clubid')","timestamp":"2023-06-22 18:30:07"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 18:31:00"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:01:59"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:04:27"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:10:14"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:10:56"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:13:36"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:16:33"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:20:43"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:21:22"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:35:29"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:37:07"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:38:36"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:40:39"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:49:06"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:50:13"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:51:35"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:54:19"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:56:54"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 19:59:45"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 20:01:07"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 20:02:49"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read property 'clubid' of undefined","timestamp":"2023-06-22 20:02:53"}
+{"level":"error","message":"App - insertClubLike Service error\n: Cannot read property 'clubid' of undefined","timestamp":"2023-06-22 20:02:53"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 20:03:30"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 20:12:14"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 20:59:08"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 21:00:21"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 21:02:30"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 21:03:56"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 21:05:46"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 21:16:19"}
+{"level":"info","message":"undefined - API Server Start At Port 5000","timestamp":"2023-06-22 21:19:40"}

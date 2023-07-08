@@ -19,6 +19,17 @@ async function selectUserEmail(connection, email) {
   return emailRows;
 }
 
+// 닉네임 회원 조회
+async function selectUserdisplayName(connection, email) {
+  const selectUserdisplayNameQuery = `
+                SELECT u_name 
+                FROM user 
+                WHERE u_name = ?;
+                `;
+  const [disPlayRows] = await connection.query(selectUserdisplayNameQuery, email);
+  return disPlayRows;
+}
+
 // userId 회원 조회
 async function selectUserId(connection, userId) {
   const selectUserIdQuery = `
@@ -33,8 +44,8 @@ async function selectUserId(connection, userId) {
 // 유저 생성
 async function insertUserInfo(connection, insertUserInfoParams) {
   const insertUserInfoQuery = `
-        INSERT INTO UserInfo(email, password, nickname)
-        VALUES (?, ?, ?);
+  INSERT INTO user (f_uid, u_name)
+  VALUES (?, ?);
     `;
   const insertUserInfoRow = await connection.query(
     insertUserInfoQuery,
@@ -89,4 +100,5 @@ module.exports = {
   selectUserPassword,
   selectUserAccount,
   updateUserInfo,
+  selectUserdisplayName,
 };

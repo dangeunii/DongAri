@@ -6,15 +6,16 @@ const {response, errResponse} = require("../../../config/response");
 
 const regexEmail = require("regex-email");
 const {emit} = require("nodemon");
+const { log } = require("winston");
 
 /**
  * API No. 0
  * API Name : 테스트 API
  * [GET] /app/test
  */
-// exports.getTest = async function (req, res) {
-//     return res.send(response(baseResponse.SUCCESS))
-// }
+exports.getTest = async function (req, res) {
+    return res.send(response(baseResponse.SUCCESS))
+}
 
 /**
  * API No. 1
@@ -24,29 +25,28 @@ const {emit} = require("nodemon");
 exports.postUsers = async function (req, res) {
 
     /**
-     * Body: email, password, nickname
+     * Body: uid, displayName
      */
-    const {email, password, nickname} = req.body;
+    const {f_uid, displayName} = req.body;
+    
+
+    //빈 값 체크
+    if (!f_uid)
+        return res.send(response(baseResponse.SIGNUP_UID_EMPTY));
 
     // 빈 값 체크
-    if (!email)
-        return res.send(response(baseResponse.SIGNUP_EMAIL_EMPTY));
-
+    if (!displayName)
+        return res.send(response(baseResponse.SIGNUP_NICKNAME_EMPTY));
+    
     // 길이 체크
-    if (email.length > 30)
-        return res.send(response(baseResponse.SIGNUP_EMAIL_LENGTH));
+    if (displayName.length > 20)
+        return res.send(response(baseResponse.SIGNUP_NICKNAME_LENGTH));
 
-    // 형식 체크 (by 정규표현식)
-    if (!regexEmail.test(email))
-        return res.send(response(baseResponse.SIGNUP_EMAIL_ERROR_TYPE));
-
-    // 기타 등등 - 추가하기
 
 
     const signUpResponse = await userService.createUser(
-        email,
-        password,
-        nickname
+        f_uid,
+        displayName
     );
 
     return res.send(signUpResponse);

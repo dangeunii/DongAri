@@ -39,6 +39,14 @@ exports.emailCheck = async function (email) {
   return emailCheckResult;
 };
 
+exports.displayNameCheck = async function (displayName) {
+  const connection = await pool.getConnection(async (conn) => conn);
+  const displayNameCheckResult = await userDao.selectUserdisplayName(connection, displayName);
+  connection.release();
+
+  return displayNameCheckResult;
+};
+
 exports.passwordCheck = async function (selectUserPasswordParams) {
   const connection = await pool.getConnection(async (conn) => conn);
   const passwordCheckResult = await userDao.selectUserPassword(
